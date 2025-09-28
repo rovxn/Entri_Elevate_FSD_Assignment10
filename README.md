@@ -1,9 +1,3 @@
-Got it 👍 You want a **polished README.md** that looks professional and covers everything needed for submission, including where to put screenshots. I’ll keep it aligned with your assignment requirements. Since you decided **not to use Quicksand & Montserrat**, I’ll stick with the default Tailwind fonts.
-
-Here’s a complete README you can drop into your project root:
-
----
-
 # 📦 Product List (React + Vite + Tailwind)
 
 A simple product listing page built with **React** and **Tailwind CSS**.
@@ -26,31 +20,32 @@ Features include searching, filtering by category, sorting by price/rating, and 
 
 ---
 
-## 🖼️ Screenshots (suggested)
+## 🖼️ Screenshots
 
-Take these screenshots after running the project:
+1. **Homepage (Full View)**  
+   Displays all products in a desktop layout.  
+   ![Homepage Screenshot](screenshots/homepage-full.png)
 
-1. **Homepage (Full View)**
-   → Show all products in a desktop layout.
+2. **Responsive View (Mobile/Tablet)**  
+   Grid stacks correctly on smaller screen widths.  
+   ![Responsive View Screenshot](screenshots/responsive-view.png)
 
-2. **Responsive View (Mobile/Tablet)**
-   → Resize browser to mobile width (grid should stack).
+3. **Search in Action**  
+   Filtered results shown while typing in the search bar.  
+   ![Search Screenshot](screenshots/search-filter.png)
 
-3. **Search in Action**
-   → Type part of a product name and capture filtered results.
+4. **Category Filter Applied**  
+   Products shown based on selected category.  
+   ![Category Filter Screenshot](screenshots/category-filter.png)
 
-4. **Category Filter Applied**
-   → Select a category and show only products in that category.
+5. **Sorting by Price/Rating**  
+   Products sorted by "Price: Low → High".  
+   ![Sorting Screenshot](screenshots/sorting-price-low-high.png)
 
-5. **Sorting by Price/Rating**
-   → Capture products sorted by "Price: Low → High".
+6. **Add to Cart Button Click**  
+   Browser console logging "Add to cart: Product Name".  
+   ![Add to Cart Screenshot](screenshots/add-to-cart-console.png)
 
-6. **Add to Cart Button Click**
-   → Show browser console with the log `"Add to cart: Product Name"` after clicking the button.
-
-*(Include these images in a `/screenshots` folder inside your repo and embed them here with markdown like `![Homepage Screenshot](screenshots/home.png)`.)*
-
----
 
 ## 📂 Project Structure
 
